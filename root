@@ -1,0 +1,4 @@
+
+5,15,25,35,45,55 * * * * /bin/sh /usr/narodmon_get.sh
+0,10,20,30,40,50 * * * * /bin/sh /usr/narodmon_send.sh
+
